@@ -4,6 +4,8 @@ PHPWallet是一款流行的安全开源在线山寨币钱包，几乎可与任�
 
 具体配置： 找到settings.php更改成您的信息，具体操作里面有说明
 
+配置一定需要连接www.google.com  因为需要连接Google 2 Factor Auth 验证，国内可下载LionVPN做测试， 但每天只能免费登陆半小时，如果想长期使用还是得付费使用。这样才能连接www.google.com
+
 有问题可以直接联系：1176658122@qq.com
 
 功能实现：
@@ -21,3 +23,6 @@ PHPWallet是一款流行的安全开源在线山寨币钱包，几乎可与任�
 如果有感兴趣的，可以共同完善更多功能
 
 网址：https://www.evdian.com
+
+登陆用户名:phpWallet 密码：changeme
+
